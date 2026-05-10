@@ -45,4 +45,4 @@ streamlit run app.py
 - Upload a real photo → **AUTHENTIC**
 
 ## 👤 Author
-**Rohith V** | B.Tech AI&DS | [🔗 LinkedIn](https://www.linkedin.com/in/rohithv0507/)
+**Rohith V** | [🔗 LinkedIn](https://www.linkedin.com/in/rohithv0507/)
